@@ -11,6 +11,7 @@ User Profile Page
 ![Social App - Google Chrome 24-05-2021 11_47_28](https://user-images.githubusercontent.com/65443149/120210445-6c4a2180-c24d-11eb-9057-7df096fcf239.png)
 
 Home Page
-![Uploading Social App - Google Chrome 24-05-2021 11_48_03.png…]()
+![Social App - Google Chrome 24-05-2021 11_47_59](https://user-images.githubusercontent.com/65443149/120210584-8e43a400-c24d-11eb-91a7-0bf75bcf4f7d.png)
+
 
 
